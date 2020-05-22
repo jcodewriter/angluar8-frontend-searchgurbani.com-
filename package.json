@@ -39,7 +39,7 @@
     "@types/jquery": "^3.3.31",
     "@types/rss": "0.0.28",
     "bootstrap": "^3.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mysql": "^2.18.1",
     "ng-angular8-datatable": "^0.9.11",
     "ng-click-outside": "^5.1.1",
